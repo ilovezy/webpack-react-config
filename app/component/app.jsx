@@ -1,16 +1,17 @@
-var React = require('react');
-var Context = require('./context.jsx');
+import React from 'react'
+import Context from './context'
+
 module.exports = React.createClass({
     sayhello: function () {
-        console.log('yes')
+        console.log('yes na')
     },
     render: function () {
         return (
             <div>
                 <p>hello world</p>
-                <Context title="jack" />
+                <Context title="ff" />
                 <button onClick={this.sayhello}>
-                    click
+                    click me
                 </button>
             </div>
         );
