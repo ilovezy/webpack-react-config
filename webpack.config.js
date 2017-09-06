@@ -48,7 +48,9 @@ module.exports = {
       $: "jquery",
       jQuery: "jquery",
       "window.jQuery": "jquery",
-      "_": "underscore",
+      'React' : 'react',
+      'ReactDOM': 'react-dom',
+      _: "underscore",
     }),
     new webpack.optimize.UglifyJsPlugin({
       mangle: { // 排除不想要压缩的对象名称
