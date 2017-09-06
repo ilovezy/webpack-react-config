@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{css-DefinitelyTyped, jquery-DefinitelyTyped, lodash-DefinitelyTyped, node-DefinitelyTyped, react-DefinitelyTyped, requirejs-DefinitelyTyped, requirejs-domready-DefinitelyTyped, underscore-DefinitelyTyped, webpack-DefinitelyTyped, webpack-dev-server-DefinitelyTyped, zepto-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Nashorn" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
